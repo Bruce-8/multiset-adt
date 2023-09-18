@@ -8,7 +8,7 @@ class MultiSet {
     so it just inherits Object.__init__.
     */
 
-    public void add(Object item) {
+    public boolean add(Object item) {
         throw new UnsupportedOperationException();
     }
 
